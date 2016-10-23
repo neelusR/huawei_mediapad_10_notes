@@ -6,3 +6,8 @@ If device not shown in fastboot mode
 ...
 > sudo service udev restart
 ```
+
+Also you can try use VendorID param =)
+```
+> fastboot -i 0x12d1 devices
+```
