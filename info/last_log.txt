@@ -1,0 +1,15 @@
+# cat /cache/recovery/last_log
+
+recovery filesystem table
+=========================
+  0 /tmp ramdisk (null) (null) 0
+  1 /mnt/sdcard2 vfat /dev/block/platform/hi_mci.0/mmcblk1p1 (null) 0
+  2 /system ext4 /dev/block/mmcblk0p16 (null) 0
+  3 /cache ext4 /dev/block/mmcblk0p15 (null) 0
+  4 /tmpdata ext4 /dev/block/mmcblk0p18 (null) 0
+  5 /misc emmc /dev/block/mmcblk0p4 (null) 0
+  6 /boot emmc /dev/block/mmcblk0p11 (null) 0
+  7 /recovery emmc /dev/block/mmcblk0p10 (null) 0
+  8 /data ext4 /dev/block/mmcblk0p22 (null) 0
+  9 /cust ext4 /dev/block/mmcblk0p17 (null) 0
+  10 /vrcb emmc /dev/block/mmcblk0p8 (null) 0

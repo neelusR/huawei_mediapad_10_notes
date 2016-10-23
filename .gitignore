@@ -1,0 +1,7 @@
+original/cat
+root/*.zip
+root/*.rar
+tools/img
+tools/mkbootfs-master
+tools/mkbootimg-master
+tools/*.zip

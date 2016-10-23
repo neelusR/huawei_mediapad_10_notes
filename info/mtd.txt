@@ -1,0 +1,2 @@
+dev:    size   erasesize  name
+mtd0: 00400000 00001000 "block2mtd: /dev/block/mmcblk0p3"

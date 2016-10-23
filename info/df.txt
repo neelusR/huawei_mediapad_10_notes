@@ -1,0 +1,16 @@
+# df
+
+Filesystem             Size   Used   Free   Blksize
+/dev                   378M    76K   378M   4096
+/mnt/cifs              378M     0K   378M   4096
+/mnt/asec              378M     0K   378M   4096
+/mnt/obb               378M     0K   378M   4096
+/system                503M   500M     3M   4096
+/cache                 251M     4M   247M   4096
+/tmpdata                15M     4M    11M   4096
+/modem/modem_image      62M     4M    58M   4096
+/modem/nvm1              7M     4M     3M   4096
+/cust                  503M   346M   157M   4096
+/data                   12G     6G     6G   4096
+/data/peers            378M     0K   378M   4096
+/storage/sdcard0        12G     6G     6G   4096
